@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jinxfndev
-- 👀 I’m interested in hybrid servers
-- 🌱 I’m currently learning in game
-- 💞️ I’m looking to collaborate on in game servers
+- 👀 I’m interested in osiris
+- 🌱 I’m currently learning thirt person
 
 <!---
 jinxfndev/jinxfndev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
